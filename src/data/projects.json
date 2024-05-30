@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Projeto - Github Explorer",
+    "imageSrc": "projects/project.png",
+    "description": "Projeto usando React js para fins de estudo sobre TypeScript requisições a api",
+    "skills": ["React"],
+    "demo": "https://github-explorer-jade.vercel.app/",
+    "source": "https://github.com/henriquerick12/github_explorer"
+  },
+  {
+    "title": "Projeto - Kenzie Hamburgueria",
+    "imageSrc": "projects/project.png",
+    "description": "Site usando react js, Burguer kenzie e um site de vendas de hamburguer",
+    "skills": ["React"],
+    "demo": "https://hamburgueria-phi-jade.vercel.app/",
+    "source": "https://github.com/henriquerick12/Kenzie_Hamburgueria"
+  },
+  {
+    "title": "Projeto - Carrinho de compras",
+    "imageSrc": "projects/project.png",
+    "description": "Carrinho de compras são produtos mostrados no carrinho e usando a API do mercado livre.",
+    "skills": ["React"],
+    "demo": "https://carrinho-de-compras-mu-rosy.vercel.app/",
+    "source": "https://github.com/henriquerick12/Carrinho-de-compras"
+  },
+  {
+    "title": "Projeto - Starbucks",
+    "imageSrc": "projects/project.png",
+    "description": "Página responsivél com HTML, CSS3.",
+    "skills": ["HTML", "CSS3"],
+    "demo": "https://henriquerick12.github.io/Starbucks/",
+    "source": "https://github.com/henriquerick12/Starbucks"
+  },
+  {
+    "title": "Projeto - Books",
+    "imageSrc": "projects/project.png",
+    "description": "Feito para fins de estudo sobre React Router e Redux Toolkit.",
+    "skills": ["React"],
+    "demo": "https://grud-books.netlify.app/",
+    "source": "https://github.com/henriquerick12/Books"
+  },
+  {
+    "title": "Projeto - Secret Words",
+    "imageSrc": "projects/project.png",
+    "description": "Quiz feito para fins de estudo sobre Context Api.",
+    "skills": ["React"],
+    "demo": "https://main--adivinhar-palavras.netlify.app/",
+    "source": "https://github.com/henriquerick12/secret-words"
+  },
+  {
+    "title": "Projeto - Todo List",
+    "imageSrc": "projects/project.png",
+    "description": "Todo List feito para fins de estudo sobre Context Api.",
+    "skills": ["React"],
+    "demo": "https://to-do-alpha-two.vercel.app/",
+    "source": "https://github.com/henriquerick12/To-Do"
+  },
+  {
+    "title": "Projeto - Quiz",
+    "imageSrc": "projects/project.png",
+    "description": "Quiz feito para fins de estudo sobre Context Api.",
+    "skills": ["React"],
+    "demo": "https://quiz-nu-umber.vercel.app/",
+    "source": "https://github.com/henriquerick12/Quiz"
+  },
+  {
+    "title": "Projeto - Blog",
+    "imageSrc": "projects/project.png",
+    "description": "Fundamentos de HTML5 e CSS3 e responsividade.",
+    "skills": ["HTML","CSS3"],
+    "demo": "https://henriquerick12.github.io/Blog_Kenzie/",
+    "source": "https://github.com/henriquerick12/Blog_Kenzie"
+  }
+]
